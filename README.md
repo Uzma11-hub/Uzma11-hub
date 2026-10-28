@@ -41,3 +41,6 @@ Seeking opportunities as a Data Analyst where I can combine my Mathematics backg
 ### 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/uzma-tarannum-333a56372/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BplFQIlxySISzs8aR2fcNog%3D%3D)
+
+
+Currently documenting my data analytics projects on GitHub.
