@@ -1,48 +1,37 @@
-
 ## Hi, I'm Uzma Tarannum 👋
 
 ### 📊 Aspiring Data Analyst | M.Sc. Mathematics
 
-I am an M.Sc. Mathematics postgraduate with 2+ years of teaching experience, transitioning into Data Analytics.
+I am an M.Sc. Mathematics postgraduate with 2+ years of teaching experience, transitioning into Data Analytics. I completed the Data Analytics program at ExcelR and a Data Analyst internship at AiVariant.
 
-My background in Mathematics has developed strong skills in analytical thinking, statistics, quantitative reasoning, and problem-solving. I enjoy working with data to discover patterns, generate insights, and support data-driven decisions.
+My background in Mathematics has developed strong skills in analytical thinking, quantitative reasoning, and problem-solving. I enjoy working with data to discover patterns, generate insights, and support data-driven decisions.
 
-### 🛠️ Technical Skills
+### 🛠️ Skills
 
-- Python
-- Pandas
-- NumPy
-- SQL
-- Excel
-- Power BI
-- Data Analysis
-- Data Visualization
-- Statistics
-- Exploratory Data Analysis
+| Area | Tools |
+|---|---|
+| Spreadsheets | Excel (dashboards) |
+| Databases | SQL / MySQL |
+| BI & Visualization | Power BI (DAX, Power Query), Tableau |
+| Programming | Python basics (Pandas, NumPy, Matplotlib) |
 
-### 📊 Data Analytics
+### 📈 What I Work On
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
-- Dashboard Development
-- SQL Data Analysis
-- Reporting & Insights
+- Data cleaning and preparation
+- Exploratory data analysis
+- SQL data analysis
+- Dashboard development
+- Reporting and insights
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-Building practical Data Analytics projects using real-world datasets, focusing on data cleaning, analysis, visualization, dashboards, and actionable insights.
+- **Zomato Restaurant Analytics**: Excel, SQL, Power BI, Tableau (repository link coming soon)
+- **Adventure Works Sales Analytics**: team project; Excel, SQL, Power BI, Tableau (repository link coming soon)
 
 ### 🎯 Career Goal
 
-Seeking opportunities as a Data Analyst where I can combine my Mathematics background and analytical skills to turn data into meaningful business insights.
+Seeking an entry-level Data Analyst role where I can combine my Mathematics background and analytical skills to turn data into meaningful business insights.
 
 ### 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/uzma-tarannum-333a56372/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BplFQIlxySISzs8aR2fcNog%3D%3D)
-
-
-Currently documenting my data analytics projects on GitHub.
-
-Test line for pull practice.
+[LinkedIn](https://www.linkedin.com/in/uzma-tarannum-333a56372/)
