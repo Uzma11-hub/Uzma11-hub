@@ -11,9 +11,9 @@ My background in Mathematics has developed strong skills in analytical thinking,
 | Area | Tools |
 |---|---|
 | Spreadsheets | Excel (dashboards) |
-| Databases | SQL(MySQL) |
+| Databases | SQL (MySQL) |
 | BI & Visualization | Power BI (DAX, Power Query), Tableau |
-| Programming | Python basics (Pandas, NumPy, Matplotlib) |
+| Programming | Python (basics) |
 
 ### 📈 What I Work On
 
