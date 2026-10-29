@@ -26,7 +26,7 @@ My background in Mathematics has developed strong skills in analytical thinking,
 ### 🚀 Featured Projects
 
 - **Zomato Restaurant Analytics**: Excel, SQL, Power BI, Tableau (repository link coming soon)
-- **Adventure Works Sales Analytics**: team project; Excel, SQL, Power BI, Tableau (repository link coming soon)
+- **[Adventure Works Sales Analytics](https://github.com/Uzma11-hub/adventure-works-sales-analytics)**: team project; Excel, SQL, Power BI, Tableau
 
 ### 🎯 Career Goal
 
